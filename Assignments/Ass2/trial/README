@@ -1,0 +1,21 @@
+VIEWS::
+	PlayerView:		p
+	TopView:		t
+	OverheadCam:		o
+	FollowCam:		f
+
+CONTROLS::
+	
+	PlayerView:
+		Left, Right	: Change Postion Sideways
+
+
+	Launching Strike:
+		Spacebar: Launching Strike
+
+BASICS::	
+	Quit	:	ESC, Q
+	Pause	:	P
+
+EXTRA FEATURE::
+	->	randomly rearranging target on hit/miss.

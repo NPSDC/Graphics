@@ -1,0 +1,13 @@
+This is the sample code for 3D graphics and camera manipulations.
+[ Code is used to explain basic hierarchy in various transformations and to explain camera properties ]
+
+Useful Sources :
+	http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
+
+Important :
+	This code is in OpenGL's version 2.0
+	For all further assignments version 3.0 is to be used!
+
+Note :
+	Makefile will work for both Mac and Linux.
+	If it does not work on linux, use MakefileLinux

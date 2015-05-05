@@ -1,0 +1,15 @@
+Single player board Game
+
+Controls
+
+Keyboard
+left and right arrow keys moves the Striker left and right
+Up and down arrow keys moves the speed progress bar up and down
+a and c rotates left and right
+
+Mouse
+Dragging with right arrow keys moves the Striker left and right
+Holding with the centre mouse button moves the speed progress bar
+Left mouse button strikes it and the point where we hit the mouse gives the angle
+
+Further special things have been taken care such that if any coin is at the position of the Striker then the Striker is placed accordingly also we cant move the Striker if it encounters a coin while moving
